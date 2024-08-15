@@ -1,0 +1,8 @@
+.index-headshot {
+    max-width: 20rem;
+    border-radius: 50%;
+    float: right;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    shape-outside: circle(50%);
+}

@@ -1,5 +1,5 @@
 ---
-type: 'blank'
+type: 'index'
 description: "Brennon Williams Product Developer"
 zooming_js: false
 title: "Brennon Williams Product Developer"
@@ -14,3 +14,4 @@ Some things I'm interested in:
 - Local-First Software
 - Physical Computing
 - Rapid Prototyping
+
