@@ -1,0 +1,15 @@
+[[navbar]]
+  identifier = "writing"
+  name = "Writing"
+  url = "/writing/"
+  weight = 1
+  [[navbar]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+  [[navbar]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 1
